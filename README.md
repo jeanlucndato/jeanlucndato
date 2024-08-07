@@ -9,6 +9,8 @@ For Jeanluck Ndato, being an ethical hacker and software developer is more than 
 * 🌍  I'm based in AFRICA
 * 🖥️  See my portfolio at [My Resume](http://ndatojeanluck.000webhostapp.com/)
 * ✉️  You can contact me at [inversehacker@proton.me](mailto:inversehacker@proton.me)
+* ✉️  You can join me at [Quora](https://inversehacker.quora.com/)
+* ✉️  You can join me at [DockerHub](https://hub.docker.com/u/jeanluckndato)
 * 🧠  I'm learning Cybersecurity in AI
 * 🤝  I'm open to collaborating on Open-Source Security Projects
 * ⚡  I love Cybersecurity Competitions
