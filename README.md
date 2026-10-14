@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is JEANLUCK NDATO
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30">, I'm Ndato Jeanluck</h1>
+
 ======================================================================================================================================
 
 Ethical Hacker
@@ -9,14 +10,25 @@ Ethical Hacker
   <em>Securing digital infrastructures through penetration testing, system hardening, and threat analysis.</em>
 </p>
 
-* 🌍  I'm based in AFRICA
-* 🖥️  See my portfolio at [My Resume](https://jeanlucndato.github.io/resume/)
-* ✉️  You can contact me at [inversehacker@proton.me](mailto:inversehacker@proton.me)
-* ✉️  You can join me at [Quora](https://inversehacker.quora.com/)
-* ✉️  You can join me at [DockerHub](https://hub.docker.com/u/jeanluckndato)
-* 🧠  I'm learning Cybersecurity in AI
-* 🤝  I'm open to collaborating on Open-Source Security Projects
-* ⚡  I love Cybersecurity Competitions
+- 🌍 Location: Africa
+- 🖥️ Portfolio / CV: [My Resume](https://jeanlucndato.github.io/resume/)
+- ✉️ Contact: [inversehacker@proton.me](mailto:inversehacker@proton.me)
+- 🧠 Focus Areas: AI in Cybersecurity & Threat Intelligence
+- 🤝 Open to: Collaborating on Open-Source Security Projects & Vulnerability Research
+- ⚡ Competitions: Active CTF Competitor & Security Enthusiast
+
+### ⚙️ Security Tools & Core Competencies
+
+<p align="left">
+  <!-- Systems & Scripting -->
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bash-colored.svg" width="36" height="36" alt="Bash" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" />
+  <!-- Infrastructure & Cloud -->
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" />
+</p>
 
 ### Skills
 
