@@ -4,10 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Ethical Hacker
 --------------
 
-For Jeanluck Ndato, being an ethical hacker and software developer is more than just a job; it's a way of life. He's a natural problem solver, his mind constantly brimming with innovative solutions to the challenges posed by the digital age. Whether it's devising ingenious ways to outsmart cybercriminals or crafting elegant software solutions that streamline processes, Jeanluck approaches every task with a unique blend of creativity and technical expertise. He's not afraid to think outside the box, to experiment and explore new possibilities, always pushing the boundaries of what's possible. This constant drive for innovation is what makes Jeanluck such a valuable asset. He's not just a skilled technician; he's a visionary, a pioneer who's constantly shaping the future of cybersecurity and software development.
+<p align="center">
+  <strong>Ethical Hacker | Cybersecurity Analyst | Security Engineer</strong><br>
+  <em>Securing digital infrastructures through penetration testing, system hardening, and threat analysis.</em>
+</p>
 
 * 🌍  I'm based in AFRICA
-* 🖥️  See my portfolio at [My Resume](http://ndatojeanluck.000webhostapp.com/)
+* 🖥️  See my portfolio at [My Resume](https://jeanlucndato.github.io/resume/)
 * ✉️  You can contact me at [inversehacker@proton.me](mailto:inversehacker@proton.me)
 * ✉️  You can join me at [Quora](https://inversehacker.quora.com/)
 * ✉️  You can join me at [DockerHub](https://hub.docker.com/u/jeanluckndato)
